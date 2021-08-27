@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: dosancoin.com
+Token: a2c90945fca6753c10ce8536ccc1f0f3ef8b869d2194d3c4953c917f0ba8b42f
